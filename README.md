@@ -1,3 +1,6 @@
+Aplicação Desenvolvida em Javascript juntamente com a biblioteca React.
+_______________________________________________________________________________________________________________________________________________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
