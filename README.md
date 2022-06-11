@@ -1,4 +1,11 @@
 Aplicação Desenvolvida em Javascript juntamente com a biblioteca React.
+
+Resultado:
+
+
+![Captura de Tela (4)](https://user-images.githubusercontent.com/54119381/173191915-70e5e530-e25b-4226-bdde-f1b9ec78da24.png)
+![Captura de Tela (6)](https://user-images.githubusercontent.com/54119381/173191938-350b006d-ff2d-47b2-9280-897c1af4e81b.png)
+
 _______________________________________________________________________________________________________________________________________________________________________
 
 # Getting Started with Create React App
@@ -26,6 +33,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
+
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
